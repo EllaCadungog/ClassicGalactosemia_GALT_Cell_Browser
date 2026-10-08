@@ -33,8 +33,12 @@ The UCSC Cell Browser was used to identify a human single-cell dataset relevant 
 **Dataset URL:**  
 https://cells.ucsc.edu/?ds=human-epidermis&gene=GALT
 
-### Figure 1
 
+
+### Screenshot 1: Dataset
+*Description: The dataset used for the analysis, showing the available study information and data characteristics.*
+* [View screenshot 1 (Dataset)](screenshots/01_dataset.png)
+* 
 **Figure 1. Dataset information for the Normal and Inflamed Human Epidermis single-cell dataset in the UCSC Cell Browser.**
 
 The dataset contains single-cell RNA-sequencing profiles from human epidermal tissue. The dataset was selected because it provides cell-level gene-expression information that can be used to examine the distribution of GALT expression across different epidermal cell populations.
@@ -95,7 +99,9 @@ The GALT expression map shows detectable expression across several clusters, wit
 
 Many cells across the dataset show little or no detectable GALT expression. The expression legend indicates that the largest proportion of cells, approximately **77.1%**, has an expression value of 0.
 
-### Figure 2
+### Screenshot 2: Gene Expression
+*Description: The gene expression results showing the expression pattern of the selected gene in the analyzed dataset.*
+* [View screenshot 2 (Gene Expression)](screenshots/02_gene_expression.png)
 
 **Figure 2. Expression of the human GALT gene across cells in the Normal and Inflamed Human Epidermis dataset.**
 
@@ -126,8 +132,10 @@ The GALT expression pattern appears **relatively broad rather than strongly cell
 
 The observed pattern is consistent with the role of GALT as a metabolic enzyme involved in galactose metabolism. GALT participates in the Leloir pathway and catalyzes the conversion of galactose-1-phosphate and UDP-glucose into UDP-galactose and glucose-1-phosphate. Therefore, GALT may be expressed in multiple cell types because galactose metabolism is a cellular metabolic process rather than a function specific to only one cell type.
 
-### Figure 3
-
+### Screenshot 3: Cell Types
+*Description: The cell types identified in the dataset, representing the different cellular populations included in the analysis.*
+* [View screenshot 3 (Cell Types)](screenshots/03_cell_types.png)
+  
 **Figure 3. GALT gene-expression map showing cell-type/cluster annotations in the Normal and Inflamed Human Epidermis dataset.**
 
 Figure 3 shows the GALT expression pattern together with the annotated cell populations. Detectable GALT expression can be observed across multiple epidermal clusters rather than being restricted to one cell type.
@@ -186,7 +194,9 @@ The third marker gene recorded was **DST**.
 
 No. The assigned disease gene **GALT** does not appear to behave as a strongly cell-type-restricted marker in this dataset. Although detectable expression can be observed in several cell populations, the expression is not limited to the basal1 cluster. This differs from a typical cell-type marker whose expression is strongly concentrated in one specific cell population.
 
-### Figure 4
+### Screenshot 4: Expression Plot
+*Description: The expression plot illustrating the level and distribution of gene expression across the analyzed cell types.*
+* [View screenshot 4 (Expression Plot)](screenshots/04_expression_plot.png)
 
 **Figure 4. Marker-gene information for the basal1 cluster in the Normal and Inflamed Human Epidermis dataset.**
 
