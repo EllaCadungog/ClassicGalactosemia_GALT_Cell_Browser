@@ -31,7 +31,7 @@ The UCSC Cell Browser was used to identify a human single-cell dataset relevant 
 **Study Accession:** EGAS00001002927
 
 **Dataset URL:**  
-https://cells.ucsc.edu/?ds=human-epidermis
+https://cells.ucsc.edu/?ds=human-epidermis&gene=GALT
 
 ### Figure 1
 
